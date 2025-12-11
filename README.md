@@ -19,8 +19,3 @@ MAST6100 Assessment 2 - Haniyah Amir
 │   └── Drug consumption dataset report       
 ├── Slides/
 │   └── Drug consumption slides
-└── Outputs/
-    ├── glm_roc_curve.png
-    ├── rf_varimp.png
-    ├── xgb_roc_curve.png
-    └── nn_roc_curve.png
